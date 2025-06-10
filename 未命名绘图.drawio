@@ -10,8 +10,11 @@
         <mxCell id="Gs0RmnHPfbYZc--f2HxW-2" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="330" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zl1DNnfWmsUgyDGwXJ69-1" value="保存到github" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zl1DNnfWmsUgyDGwXJ69-1" value="保存到github" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jxuBNrQ_jL0uAR9-xnT_-1" value="并柜61 位" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="450" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
